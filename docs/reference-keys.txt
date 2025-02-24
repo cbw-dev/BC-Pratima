@@ -1,0 +1,16 @@
+welcome
+course-schedule
+pre-workshop-materials
+computing-setup-downloads
+meet-your-faculty
+instructor-ta
+michelle-brazas-phd
+nia-hughes-sheher
+class-photo
+module-1
+lecture
+downloads
+lab
+module-2
+lecture-1
+lab-1

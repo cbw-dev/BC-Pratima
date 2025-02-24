@@ -1,0 +1,29 @@
+--- 
+title: "[Name of Workshop][Year]"
+author: "Instructors: [list instructor names here]"
+date: "[Insert dates of the workshop]"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+url: https://cbw-dev.github.io/bookdown-template/ # [CHANGE THIS LINK TO YOUR LANDING PAGE LINK]
+cover-image: img/bioinformatics_logo.png # change this to the CBW icon for your workshop
+description: |
+  CBW's Bookdown Template for Workshops
+link-citations: yes
+github-repo: cbw-dev/bookdown-template # change this to your own repo
+favicon: img/favicon.ico
+---
+
+# (PART) Introduction {-}
+
+# Welcome
+
+<!-- NOTE: Go to the README.md to help understand what to fill in for this workshop template! -->
+
+Welcome to CBW’s [workshop name, year] Workshop!
+
+<!-- This is your index.Rmd file. It is the mandatory landing page for your website. -->
+
+Put some introductory content here. (ex. links to bioinformatics.ca, general info)
+
+<!-- The rest of the content making up the welcome pages are in following files, which begin with "01#-description_of_file" -->

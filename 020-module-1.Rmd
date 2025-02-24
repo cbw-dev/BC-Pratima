@@ -1,0 +1,61 @@
+# (PART) Modules {-}
+
+# Module 1
+
+Welcome to module 1!
+
+## Lecture
+
+<!-- Insert slideshows as pdfs with this markdown code -->
+
+Here is an example of a pdf embedded:
+
+![insert alt text for pdf here](content-files/sample-pdf.pdf){width=100% height=900}\ <!-- edit height based your preferences -->
+
+<!-- Try to keep slideshows as pdfs for accessibility, slideshows from google slides can be inserted by pasting in the html code to share it into your markdown -->
+
+Here is an example of a YouTube video embedded:
+
+<iframe width="100%" height=455px src="https://www.youtube.com/embed/WMP_8RTiv40" title="CBW Bridging Pathology and Genomics 2024 | 04.2: Clinical Reporting pt. 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Downloads
+
+[insert your downloads for this module here (ex. datasets)]
+
+## Lab
+
+[Your lab here]
+
+<!-- These pages should be a rendered and compiled version of your code, if you have code.  -->
+
+<!-- R, python, bash and more can run in bookdown.  -->
+
+```{r}
+# Your R code here
+
+# For example:
+x <- 42
+x
+```
+
+```{python}
+# Your python code here
+
+# For example:
+print("hello world")
+```
+
+```{bash}
+# Your bash code here
+
+# For example:
+#pwd
+```
+
+<!-- Note, "pwd" is commented out, since it is a bash command, it may cause an error in building for Windows users. -->
+
+Try running these code "chunks" by pressing the green (left-pointing) triangle next to your code chunks. 
+
+You will see the code run in the console and the output provided below the code chunk.
+
+The output of the code will also be produced under the code chunk on your website page.
